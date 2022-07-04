@@ -60,7 +60,23 @@ Requirements:
 Detail path
 -------
 
-
+- Reservoir (out)
+    - 90 deg fitting
+    - 90 bend
+    - 90 bend
+    - Straight fitting
+- Front Rad (in)
+- Front Rad (out)
+    - Straight fitting
+    - T splitter
+    - 
+- GPU (bottom)
+- GPU (top)
+- CPU (bottom)
+- CPU (top)
+- Top Rad (in)
+- Top Rad (out)
+- Reservoir (in)
 
 **IDEA 3** ( Reservoir - Front Rad - Drain - GPU - (Back) - CPU - Top Rad - Reservoir)
 =============================================================================
