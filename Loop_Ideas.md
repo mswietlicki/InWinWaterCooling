@@ -30,8 +30,8 @@ Detail path
     - Pass-through fitting
 - Bottom case
     - *90 deg bend* or 90 deg link
-    - T spliter
-    - --- aligment? ---
+    - T splitter
+    - --- alignment? ---
     - Straight fitting
 - Front Rad (front)
 - Front Rad (back)
@@ -43,6 +43,14 @@ Detail path
 - Reservoir (in)
 
 
+Requirements:
+
+- 90 deg fitting (x4)
+- Spacer (x2)
+- Straight fitting (x5)
+- Pass-through fitting (x1)
+- T splitter
+- 90 deg link? (x4)
 
 **IDEA 2** ( Reservoir - Front Rad - Drain - GPU - CPU - Top Rad - Reservoir)
 =============================================================================
