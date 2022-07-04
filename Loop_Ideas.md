@@ -27,9 +27,8 @@ Detail path
 - GPU (bottom right)
     - 90 deg fitting
     - *90 deg bend*
-    - link? (hole)
+    - Pass-through fitting
 - Bottom case
-    - link?
     - *90 deg bend* or 90 deg link
     - T spliter
     - --- aligment? ---
