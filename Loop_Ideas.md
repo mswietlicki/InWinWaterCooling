@@ -9,12 +9,12 @@ Detail path
 - Reservoir (out)
     - 90 deg fitting
     - *90 deg bend*
-    - 90 deg fitting
-    - Spacer ( ? mm )
+    - *90 deg bend*
+    - Straight fitting
 - CPU (bottom)
 - CPU (top)
-    - Spacer ( ? mm )
-    - 90 deg fitting
+    - Straight fitting
+    - *90 deg bend*
     - *90 deg bend*
     - Straight fitting
 - Top Rad (back)
@@ -27,30 +27,35 @@ Detail path
 - GPU (bottom right)
     - 90 deg fitting
     - *90 deg bend*
+    - Straight fitting
     - Pass-through fitting
 - Bottom case
-    - *90 deg bend* or 90 deg link
-    - T splitter
+    - Straight fitting
+    - *90 deg bend* 
+    - Straight fitting
+    - T splitter (x2 rotator)
+    - Straight fitting
     - --- alignment? ---
     - Straight fitting
 - Front Rad (front)
 - Front Rad (back)
     - Straight fitting
-    - 90 deg link ?
-    - 90 deg link ?
-    - 90 deg link ?
-    - Straight fitting ?
+    - *90 deg bend*
+    - *90 deg bend*
+    - 90 deg fitting
+    - Pass-through fitting
+    - Straight fitting
+    - Straight fitting
 - Reservoir (in)
 
 
 Requirements:
 
 - 90 deg fitting (x4)
-- Spacer (x2)
-- Straight fitting (x5)
-- Pass-through fitting (x1)
+- Straight fitting (x12)
+- Pass-through fitting (x2)
 - T splitter
-- 90 deg link? (x4)
+- Valve
 
 **IDEA 2** ( Reservoir - Front Rad - Drain - GPU - CPU - Top Rad - Reservoir)
 =============================================================================
